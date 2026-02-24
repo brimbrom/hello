@@ -1,6 +1,7 @@
 package main
 
-func main() {
-	println("hello!")
-}
+import "fmt"
 
+func main() {
+	fmt.Println("hello!")
+}
